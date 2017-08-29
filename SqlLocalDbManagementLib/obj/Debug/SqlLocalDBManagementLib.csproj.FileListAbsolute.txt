@@ -1,0 +1,7 @@
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDbManagementLib\obj\Debug\SqlLocalDBManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDbManagementLib\bin\Debug\SqlLocalDBManagementLib.dll
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDbManagementLib\bin\Debug\SqlLocalDBManagementLib.pdb
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDbManagementLib\bin\Debug\System.Management.Automation.dll
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDbManagementLib\obj\Debug\SqlLocalDBManagementLib.dll
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDbManagementLib\obj\Debug\SqlLocalDBManagementLib.pdb
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDbManagementLib\obj\Debug\SqlLocalDBManagementLib.csprojResolveAssemblyReference.cache
