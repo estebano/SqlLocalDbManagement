@@ -43,6 +43,7 @@ namespace SqlLocalDBMgr.ViewModel
             ////}
 
             SimpleIoc.Default.Register<MainViewModel>();
+            SimpleIoc.Default.Register<MainWindowVM>();
         }
 
         public MainViewModel Main

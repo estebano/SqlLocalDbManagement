@@ -7,8 +7,26 @@
         DataContext="{Binding Source={StaticResource Locator}, Path=MainVM}"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ResourceDictionary>
 
+        </ResourceDictionary>
+    </Window.Resources>
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="142*"/>
+            <ColumnDefinition Width="375*"/>
+        </Grid.ColumnDefinitions>
+        <TreeView HorizontalAlignment="Left" Width="142" ItemsSource="{Binding InstancesInfos}">
+            <TreeView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Image Width="32" Height="32"
+                               Style="{DynamicResource ResourceKey=RunState}"/>
+                        <TextBox Text="{Binding Name}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
     </Grid>
 </Window>

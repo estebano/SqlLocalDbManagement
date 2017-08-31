@@ -31,3 +31,4 @@ C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDBMgr\bin\Debug\Gal
 C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDBMgr\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDBMgr\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDBMgr\obj\Debug\App.baml
+C:\Users\Hubert\Source\repos\SqlLocalDbManagementLib\SqlLocalDBMgr\obj\Debug\Styles\Icons.baml

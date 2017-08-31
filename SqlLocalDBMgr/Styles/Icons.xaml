@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:SqlLocalDBMgr.Styles">
+    <Style x:Key="RunState" TargetType="{x:Type Image}">
+        <Style.Triggers>
+            <DataTrigger>
+                <Setter Property="Source" Value="/Resources/on-flat.png"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>
